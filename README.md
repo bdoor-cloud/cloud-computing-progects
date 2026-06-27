@@ -12,7 +12,7 @@ Cloud Computing student.
 
    ##Progects
 
-   - Personal Cloud Portfolio (Coming Soon)
+   - [Personal Cloud Portfolio](https://bdoor-cloud.github.io/personal-cloud-portfolio/)
 
    ##Skills
 
